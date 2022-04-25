@@ -1,7 +1,16 @@
 # <a href="https://alanjc.com/Weather-App/">Weather App</a>
-A React based single page weather application created for COMP 484 developed by Alan Constantino.
+A React based single page multilingual weather application created for COMP 484 developed by Alan Constantino.
 
 Can view project <a href="https://alanjc.com/Weather-App/">here</a>.
+
+### Languages Supported
+- English
+- Spanish
+- French
+- Russian
+- Italian
+- Japanese
+- Korean
 
 ### Technologies Used
 - <a href="https://reactjs.org/">React.js</a>
